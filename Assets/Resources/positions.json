@@ -1,0 +1,1750 @@
+{
+  "points": [
+    {
+      "title": "Lokomotīvju saimniecības tehniķa izglītības programma",
+      "description": "Izglītības programma 'Lokomotīvju saimniecības tehniķis' sniedz apmācību par dzelzceļa transporta elektroapgādes uzturēšanu un sakaru sistēmu darbību.",
+      "x": 2.79505467,
+      "y": -0.0307672117,
+      "z": 1.08936822,
+      "yRotation": 0,
+      "image": "dzelzcela_uzbuves_kab"
+    },
+    {
+      "title": "Dzelzceļa mašīnista kabīnes virtuālā simulācija",
+      "description": "Dzelzceļa mašīnista kabīnes virtuālā simulācija ļauj studentiem trenēties vadīt vilcienus un apgūt situācijas, ar kurām varētu saskarties reālā darbā.",
+      "x": 2.75637865,
+      "y": -0.8542404,
+      "z": 0.82015264,
+      "yRotation": 0,
+      "image": "dzelzcela_simulators"
+    },
+    {
+      "title": "Automehāniķa izglītības programma",
+      "description": "Izglītības programma 'Automehāniķis' sniedz apmācību par automobiļu un to piekabju remontu, diagnostiku un apkopi.",
+      "x": 2.79505467,
+      "y": -0.0307672117,
+      "z": 1.08936822,
+      "yRotation": 0,
+      "image": "auto_virsbuvju_remonta_zona"
+    },
+    {
+      "title": "Automehāniķa darba iespējas",
+      "description": "Pabeidzot izglītības programmu 'Automehāniķis', iespējams strādāt remontdarbnīcā vai arī veidot savu autoremontdarbnīcu un strādāt individuāli.",
+      "x": 1.42547321,
+      "y": -0.364937961,
+      "z": -2.61435366,
+      "yRotation": 0,
+      "image": "auto_virsbuvju_remonta_zona"
+    },
+    {
+      "title": "Koka izstrādājumu ražošanas tehniķa prasmes",
+      "description": "Pabeidzot izglītības programmu 'Koka izstrādājumu ražošanas tehniķis', audzēkņi apgūst prasmes plānot, organizēt un uzraudzēt koka izstrādājumu ražošanas procesu, kā arī darboties ar koka izstrādājumu tehnoloģiskajām iekārtām.",
+      "x": 2.49710274,
+      "y": -0.971069634,
+      "z": 1.34963024,
+      "yRotation": 0,
+      "image": "kokapstrade_1"
+    },
+    {
+      "title": "Koka izstrādājumu ražošanas tehniķa darbības jomas",
+      "description": "Iegūstot kvalifikāciju 'Koka izstrādājumu ražošanas tehniķis', absolventi var nodarboties ar koka izstrādājumu ražošanu un tehnoloģisko procesu vadību dažādos uzņēmumos, no kokzāģētavām līdz koka mēbeļu ražotnēm.",
+      "x": -2.052154,
+      "y": -0.58434093,
+      "z": 2.108841,
+      "yRotation": 0,
+      "image": "kokapstrade_1"
+    },
+    {
+      "title": "Koka izstrādājumu ražošanas tehniķa moduļi",
+      "description": "Moduļi, kas tiek apgūti 'Koka izstrādājumu ražošanas tehniķa' mācību laikā, ietver transportlīdzekļu uzbūves pamatus, rasēšanas pamatus, demontāžu un montāžu, riepu maiņu un remontu.",
+      "x": -0.5252305,
+      "y": -0.794828832,
+      "z": 2.84471083,
+      "yRotation": 0,
+      "image": "kokapstrade_2"
+    },
+    {
+      "title": "Koka izstrādājumu ražošanas tehniķa darba iespējas",
+      "description": "Pabeidzot izglītības programmu 'Koka izstrādājumu ražošanas tehniķis', iespējams strādāt dažādos uzņēmumos, kas saistīti ar koka apstrādi, vai arī dibināt savu uzņēmumu.",
+      "x": -2.37059665,
+      "y": -0.9752064,
+      "z": 1.55860329,
+      "yRotation": 0,
+      "image": "kokapstrade_2"
+    },
+    {
+      "title": "Automehāniķa programmas ilgums",
+      "description": "Cik ilgs ir 'Automehāniķa' izglītības programma?",
+      "enabled": true,
+      "isCorrect": false,
+      "selectedAnswer": 0,
+      "x": 2.55719519,
+      "y": -1.2508738,
+      "z": 0.9466083,
+      "yRotation": 0,
+      "image": "auto_virsbuvju_remonta_zona",
+      "answers": [
+        {
+          "id": 0,
+          "text": "2 gadi",
+          "isCorrect": false
+        },
+        {
+          "id": 1,
+          "text": "4 gadi",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "text": "6 gadi",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "text": "8 gadi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "title": "Koka izstrādājumu ražošanas tehniķa darba veids",
+      "description": "Kāds ir galvenais darba veids 'Koka izstrādājumu ražošanas tehniķim' pēc izglītības programma pabeigšanas?",
+      "enabled": true,
+      "isCorrect": false,
+      "selectedAnswer": 2,
+      "x": -2.95519519,
+      "y": -0.512616932,
+      "z": -0.0636004,
+      "yRotation": 0,
+      "image": "galdnieciba",
+      "answers": [
+        {
+          "id": 0,
+          "text": "Gatavo ēdienus",
+          "isCorrect": false
+        },
+        {
+          "id": 1,
+          "text": "Plāno, organizē, uzrauga un kontrolē koka izstrādājumu ražošanas procesu",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "text": "Pārvalda finanšu institūciju",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "text": "Programmē datorus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "title": "Koka izstrādājumu ražošanas tehniķa prasmes",
+      "description": "Kādas prasmes apgūst 'Koka izstrādājumu ražošanas tehniķis' mācību laikā?",
+      "enabled": true,
+      "isCorrect": false,
+      "selectedAnswer": 0,
+      "x": 1.09316993,
+      "y": -0.357812166,
+      "z": 2.770731,
+      "yRotation": 0,
+      "image": "galdnieciba",
+      "answers": [
+        {
+          "id": 0,
+          "text": "Peldēšana",
+          "isCorrect": false
+        },
+        {
+          "id": 1,
+          "text": "Plānošana, organizēšana, uzraudzība, rasējumu sagatavošana, darbs ar koka izstrādājumu tehnoloģiskajām iekārtām",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "text": "Pārvadā kravas ar kuģi",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "text": "Pavadīt vakarus kino",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "title": "Automehāniķa pienākumi",
+      "description": "Kādi ir 'Automehāniķa' pienākumi un uzdevumi, kas tiek apgūti mācību procesa laikā?",
+      "enabled": true,
+      "isCorrect": true,
+      "selectedAnswer": 1,
+      "x": -2.18394947,
+      "y": -0.843400359,
+      "z": -1.87591088,
+      "yRotation": 0,
+      "image": "auto_virsbuves_krasotava",
+      "answers": [
+        {
+          "id": 0,
+          "text": "Ēdienu gatavošana",
+          "isCorrect": false
+        },
+        {
+          "id": 1,
+          "text": "Remonta un apkopes darbu organizēšana, tehniskās apkopes veikšana, remonta darbu veikšana",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "text": "Dejošana",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "text": "Valodu mācīšana",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "title": "Automehāniķa darba iespējas",
+      "description": "Kādas darba iespējas varētu būt 'Automehāniķim' pabeidzot izglītības programmu?",
+      "enabled": true,
+      "isCorrect": false,
+      "selectedAnswer": 3,
+      "x": 2.41480112,
+      "y": 0.5972855,
+      "z": 1.676898,
+      "yRotation": 0,
+      "image": "auto_virsbuves_krasotava",
+      "answers": [
+        {
+          "id": 0,
+          "text": "Slimnīcā",
+          "isCorrect": false
+        },
+        {
+          "id": 1,
+          "text": "Remontdarbnīcā vai arī savas autoremontdarbnīcas izveidošana",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "text": "Bibliotēkā",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "text": "Tirdzniecības centrā",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "title": "Dzelzceļa mašīnista kabīnes virtuālais simulators",
+      "description": "Kur var strādāt, pabeidzot 'Lokomotīvju saimniecības tehniķis' programmu?",
+      "enabled": true,
+      "isCorrect": true,
+      "selectedAnswer": 2,
+      "x": 2.23724747,
+      "y": 0.7816148,
+      "z": 1.83951139,
+      "yRotation": 0,
+      "image": "dzelzcela_simulators",
+      "answers": [
+        {
+          "id": 0,
+          "text": "Slimnīcā",
+          "isCorrect": false
+        },
+        {
+          "id": 1,
+          "text": "Frizētavā",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "text": "Dzelzceļa uzņēmumā vai elektrosakaru kompānijā",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "text": "Reklāmas aģentūrā",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "title": "Dzelzceļa mašīnista kabīnes virtuālais simulators",
+      "description": "Kāda ir izglītības programma 'Lokomotīvju saimniecības tehniķis' ilgums?",
+      "enabled": true,
+      "isCorrect": false,
+      "selectedAnswer": 0,
+      "x": 2.95739126,
+      "y": 0.0131429732,
+      "z": -0.50365144,
+      "yRotation": 0,
+      "image": "dzelzcela_simulators",
+      "answers": [
+        {
+          "id": 0,
+          "text": "2 gadi",
+          "isCorrect": false
+        },
+        {
+          "id": 1,
+          "text": "4 gadi",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "text": "6 gadi",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "text": "8 gadi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "title": "Dzelzceļa mašīnista kabīnes virtuālais simulators",
+      "description": "Kāds ir viens no 'Lokomotīvju saimniecības tehniķis' uzdevumiem?",
+      "enabled": true,
+      "isCorrect": false,
+      "selectedAnswer": 1,
+      "x": 2.58532953,
+      "y": 0.6814318,
+      "z": -1.36078012,
+      "yRotation": 0,
+      "image": "dzelzcela_simulators",
+      "answers": [
+        {
+          "id": 0,
+          "text": "Kafijas gatavošana",
+          "isCorrect": false
+        },
+        {
+          "id": 1,
+          "text": "Vilcienu grafiku veidošana",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "text": "Dzelzceļa automātikas un sakaru sistēmu diagnostika",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "text": "Grāmatvedība",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "title": "Koka izstrādājumu ražošanas tehniķa moduļi",
+      "description": "Kādi moduļi tiek apgūti 'Koka izstrādājumu ražošanas tehniķa' mācību laikā?",
+      "enabled": false,
+      "isCorrect": false,
+      "selectedAnswer": 3,
+      "x": -0.07034748,
+      "y": -0.7613001,
+      "z": -2.90094352,
+      "yRotation": 0,
+      "image": "kokapstrade_1",
+      "answers": [
+        {
+          "id": 0,
+          "text": "Grāmatvedība",
+          "isCorrect": false
+        },
+        {
+          "id": 1,
+          "text": "Transportlīdzekļu uzbūves pamati, Riepu maiņa un remonts",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "text": "Dziedāšana",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "text": "Čakaru veidošana",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "title": "Dzelzceļa transporta un lokomotīvju uzbūves kabinets",
+      "description": "Kas ir viens no 'Lokomotīvju saimniecības tehniķis' mācību moduļiem?",
+      "enabled": false,
+      "isCorrect": true,
+      "selectedAnswer": 2,
+      "x": 1.0303123,
+      "y": -0.09646787,
+      "z": 2.81587481,
+      "yRotation": 0,
+      "image": "dzelzcela_uzbuves_kab",
+      "answers": [
+        {
+          "id": 0,
+          "text": "Skaļruņu montāža",
+          "isCorrect": false
+        },
+        {
+          "id": 1,
+          "text": "Auto remonts",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "text": "Dzelzceļa kontakttīklu sistēmas apkalpošana",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "text": "Modes dizains",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "title": "Dzelzceļa transporta un lokomotīvju uzbūves kabinets",
+      "description": "Kādas tālākizglītības iespējas ir pēc 'Lokomotīvju saimniecības tehniķis' programmas pabeigšanas?",
+      "enabled": false,
+      "isCorrect": true,
+      "selectedAnswer": 1,
+      "x": -2.970231,
+      "y": -0.08749236,
+      "z": -0.412400275,
+      "yRotation": 0,
+      "image": "dzelzcela_uzbuves_kab",
+      "answers": [
+        {
+          "id": 0,
+          "text": "Darbs restorānā",
+          "isCorrect": false
+        },
+        {
+          "id": 1,
+          "text": "Augstākas izglītības iegūšana enerģētikas vai elektrotehnikas jomā",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "text": "Skriešana maratonā",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "text": "Tērauda kāpurķēžu izgatavošana",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "title": "Ieeja darbnīcu korpusā",
+      "description": "Apraksts",
+      "x": 1.56602812,
+      "y": -0.06434004,
+      "z": 2.55801,
+      "yRotation": 248,
+      "image": "iekspagalms",
+      "navigateToImage": "ieeja_darbnicu_korpusa"
+    },
+    {
+      "title": "Iekšpagalms",
+      "description": "Apraksts",
+      "x": 2.0174706,
+      "y": -0.5828517,
+      "z": 2.142451,
+      "yRotation": 30,
+      "image": "ieeja_darbnicu_korpusa",
+      "navigateToImage": "iekspagalms"
+    },
+    {
+      "title": "DK 1. stāva gaitenis",
+      "description": "Apraksts",
+      "x": 2.494863,
+      "y": -0.258561879,
+      "z": -1.6458447,
+      "yRotation": 180,
+      "image": "ieeja_darbnicu_korpusa",
+      "navigateToImage": "DK_1_stava_gaitenis_1"
+    },
+    {
+      "title": "Ieeja darbnīcu korpusā",
+      "description": "Apraksts",
+      "x": 1.094808,
+      "y": -0.458436668,
+      "z": 2.755219,
+      "yRotation": 248,
+      "image": "DK_1_stava_gaitenis_1",
+      "navigateToImage": "ieeja_darbnicu_korpusa"
+    },
+    {
+      "title": "Mašīnzāle",
+      "description": "Mašīnzālē atrodamas virpas un frēzes",
+      "x": 0.5125575,
+      "y": -0.582321465,
+      "z": -2.89796257,
+      "yRotation": 0,
+      "image": "DK_1_stava_gaitenis_1",
+      "navigateToImage": "masinzale"
+    },
+    {
+      "title": "DK 1. stāva gaitenis",
+      "description": "Apraksts",
+      "x": -2.993927,
+      "y": -0.1784051,
+      "z": 0.06762234,
+      "yRotation": 0,
+      "image": "DK_1_stava_gaitenis_1",
+      "navigateToImage": "DK_1_stava_gaitenis_2"
+    },
+    {
+      "title": "DK 1. stāva gaitenis",
+      "description": "Apraksts",
+      "x": -1.16271389,
+      "y": -0.23334831,
+      "z": -2.755657,
+      "yRotation": 0,
+      "image": "masinzale",
+      "navigateToImage": "DK_1_stava_gaitenis_1"
+    },
+    {
+      "title": "DK 1. stāva gaitenis",
+      "description": "Apraksts",
+      "x": 0.136796519,
+      "y": -0.104337066,
+      "z": -2.99506259,
+      "yRotation": 90,
+      "image": "DK_1_stava_gaitenis_2",
+      "navigateToImage": "DK_1_stava_gaitenis_1"
+    },
+    {
+      "title": "DK 1. stāva gaitenis",
+      "description": "Apraksts",
+      "x": 0.0122471135,
+      "y": -0.585842,
+      "z": 2.94221663,
+      "yRotation": 180,
+      "image": "DK_1_stava_gaitenis_2",
+      "navigateToImage": "DK_1_stava_gaitenis_3"
+    },
+    {
+      "title": "DK 1. stāva gaitenis",
+      "description": "Apraksts",
+      "x": 0.4416082,
+      "y": -0.206290573,
+      "z": 2.96013951,
+      "yRotation": 270,
+      "image": "mehatronika",
+      "navigateToImage": "DK_1_stava_gaitenis_2"
+    },
+    {
+      "title": "Dzelzceļa mašīnista kabīnes virtuālais simulators",
+      "description": "Apraksts",
+      "x": -0.155843809,
+      "y": -0.1456792,
+      "z": 2.99240541,
+      "yRotation": 0,
+      "image": "dzelzcela_uzbuves_kab",
+      "navigateToImage": "dzelzcela_simulators"
+    },
+    {
+      "title": "DK 1. stāva gaitenis",
+      "description": "Apraksts",
+      "x": -0.7829834,
+      "y": -0.249125138,
+      "z": -2.88528562,
+      "yRotation": 180,
+      "image": "dzelzcela_uzbuves_kab",
+      "navigateToImage": "DK_1_stava_gaitenis_3"
+    },
+    {
+      "title": "Dzelzceļa transporta un lokomotīvju uzbūves kabinets",
+      "description": "Apraksts",
+      "x": -0.9983988,
+      "y": -0.546943069,
+      "z": -2.7756176,
+      "yRotation": 0,
+      "image": "dzelzcela_simulators",
+      "navigateToImage": "dzelzcela_uzbuves_kab"
+    },
+    {
+      "title": "DK 1. stāva gaitenis",
+      "description": "Apraksts",
+      "x": 2.9376967,
+      "y": -0.294150621,
+      "z": 0.532366157,
+      "yRotation": 0,
+      "image": "DK_1_stava_gaitenis_5",
+      "navigateToImage": "DK_1_stava_gaitenis_3"
+    },
+    {
+      "title": "Galdniecības kabinets",
+      "description": "Apraksts",
+      "x": 1.39026642,
+      "y": -0.4143274,
+      "z": -2.62592673,
+      "yRotation": 268.4,
+      "image": "DK_1_stava_gaitenis_5",
+      "navigateToImage": "galdnieciba"
+    },
+    {
+      "title": "Kokapstrādes kabinets",
+      "description": "Apraksts",
+      "x": -2.42572713,
+      "y": -0.216381088,
+      "z": -1.75186419,
+      "yRotation": 90,
+      "image": "DK_1_stava_gaitenis_5",
+      "navigateToImage": "kokapstrade_1"
+    },
+    {
+      "title": "DK 2. stāva gaitenis",
+      "description": "Apraksts",
+      "x": -2.78661656,
+      "y": 0.202343225,
+      "z": -1.09262383,
+      "yRotation": 200,
+      "image": "DK_1_stava_gaitenis_5",
+      "navigateToImage": "DK_2_stava_gaitenis_4"
+    },
+    {
+      "title": "DK 1. stāva gaitenis",
+      "description": "Apraksts",
+      "x": -2.91760874,
+      "y": -0.437298477,
+      "z": -0.5443605,
+      "yRotation": 80,
+      "image": "DK_1_stava_gaitenis_5",
+      "navigateToImage": "DK_1_stava_gaitenis_6"
+    },
+    {
+      "title": "Metālu lokšņu apstrāde",
+      "description": "Apraksts",
+      "x": -2.28487349,
+      "y": -0.476291925,
+      "z": 1.88480723,
+      "yRotation": 80,
+      "image": "DK_1_stava_gaitenis_5",
+      "navigateToImage": "metalu_loksnu_apstrade"
+    },
+    {
+      "title": "CNC",
+      "description": "Apraksts",
+      "x": 0.366366446,
+      "y": -0.5622201,
+      "z": 2.92398429,
+      "yRotation": 0,
+      "image": "DK_1_stava_gaitenis_5",
+      "navigateToImage": "cnc"
+    },
+    {
+      "title": "DK 1. stāva gaitenis",
+      "description": "Apraksts",
+      "x": 1.14068019,
+      "y": -0.584057331,
+      "z": 2.71251273,
+      "yRotation": 80,
+      "image": "cnc",
+      "navigateToImage": "DK_1_stava_gaitenis_5"
+    },
+    {
+      "title": "DK 1. stāva gaitenis",
+      "description": "Apraksts",
+      "x": -2.78515935,
+      "y": -0.7935539,
+      "z": -0.7830457,
+      "yRotation": 60,
+      "image": "metalu_loksnu_apstrade",
+      "navigateToImage": "DK_1_stava_gaitenis_5"
+    },
+    {
+      "title": "DK 1. stāva gaitenis",
+      "description": "Apraksts",
+      "x": 2.49400282,
+      "y": -0.374352783,
+      "z": 1.62474918,
+      "yRotation": 345,
+      "image": "galdnieciba",
+      "navigateToImage": "DK_1_stava_gaitenis_5"
+    },
+    {
+      "title": "Kokapstrādes kabinets",
+      "description": "Apraksts",
+      "x": -1.51663792,
+      "y": -0.325711846,
+      "z": 2.56782436,
+      "yRotation": 167,
+      "image": "galdnieciba",
+      "navigateToImage": "kokapstrade_1"
+    },
+    {
+      "title": "Kokapstrādes kabinets",
+      "description": "Apraksts",
+      "x": 2.9626472,
+      "y": -0.3924505,
+      "z": -0.262112945,
+      "yRotation": 325,
+      "image": "kokapstrade_1",
+      "navigateToImage": "kokapstrade_2"
+    },
+    {
+      "title": "DK 1. stāva gaitenis",
+      "description": "Apraksts",
+      "x": -2.96673679,
+      "y": -0.270354271,
+      "z": -0.3540933,
+      "yRotation": 345,
+      "image": "kokapstrade_1",
+      "navigateToImage": "DK_1_stava_gaitenis_5"
+    },
+    {
+      "title": "Kokapstrādes kabinets",
+      "description": "Apraksts",
+      "x": 2.64428329,
+      "y": -0.506605148,
+      "z": -1.3232975,
+      "yRotation": 263,
+      "image": "kokapstrade_2",
+      "navigateToImage": "kokapstrade_1"
+    },
+    {
+      "title": "DK 2. stāva gaitenis",
+      "description": "Apraksts",
+      "x": 2.47047281,
+      "y": 0.7322622,
+      "z": 1.53641045,
+      "yRotation": 200,
+      "image": "DK_1_stava_gaitenis_6",
+      "navigateToImage": "DK_2_stava_gaitenis_4"
+    },
+    {
+      "title": "Metināšanas kabinets",
+      "description": "Apraksts",
+      "x": 2.74401927,
+      "y": -0.19844766,
+      "z": -1.19623423,
+      "yRotation": 83,
+      "image": "DK_1_stava_gaitenis_6",
+      "navigateToImage": "metinasana"
+    },
+    {
+      "title": "DK 1. stāva gaitenis",
+      "description": "Apraksts",
+      "x": -2.98783016,
+      "y": -0.254153371,
+      "z": -0.09098718,
+      "yRotation": 80,
+      "image": "DK_1_stava_gaitenis_6",
+      "navigateToImage": "DK_1_stava_gaitenis_5"
+    },
+    {
+      "title": "DK 1. stāva gaitenis",
+      "description": "Apraksts",
+      "x": -1.53016686,
+      "y": -0.443278044,
+      "z": 2.542065,
+      "yRotation": 270,
+      "image": "metinasana",
+      "navigateToImage": "DK_1_stava_gaitenis_6"
+    },
+    {
+      "title": "DK 1. stāva gaitenis",
+      "description": "Apraksts",
+      "x": 0.2799272,
+      "y": -2.046929,
+      "z": 2.17525244,
+      "yRotation": 0,
+      "image": "DK_2_stava_gaitenis_4",
+      "navigateToImage": "DK_1_stava_gaitenis_6"
+    },
+    {
+      "title": "Atslēdznieku darbnīca",
+      "description": "Apraksts",
+      "x": 2.0943594,
+      "y": -1.21593285,
+      "z": -1.7706399,
+      "yRotation": 241,
+      "image": "DK_2_stava_gaitenis_4",
+      "navigateToImage": "atsledznieku_darbnica"
+    },
+    {
+      "title": "DK 2. stāva gaitenis",
+      "description": "Apraksts",
+      "x": 2.65943813,
+      "y": -0.0674626753,
+      "z": 1.38666415,
+      "yRotation": 186,
+      "image": "DK_2_stava_gaitenis_4",
+      "navigateToImage": "DK_2_stava_gaitenis_3"
+    },
+    {
+      "title": "DK 2. stāva gaitenis",
+      "description": "Apraksts",
+      "x": 1.95221865,
+      "y": -0.04707345,
+      "z": 2.27741671,
+      "yRotation": 330,
+      "image": "atsledznieku_darbnica",
+      "navigateToImage": "DK_2_stava_gaitenis_4"
+    },
+    {
+      "title": "DK 2. stāva gaitenis",
+      "description": "Apraksts",
+      "x": 0.235655874,
+      "y": -0.125506446,
+      "z": 2.98809552,
+      "yRotation": 240,
+      "image": "DK_2_stava_gaitenis_3",
+      "navigateToImage": "DK_2_stava_gaitenis_4"
+    },
+    {
+      "title": "Kustības vadības kabinets",
+      "description": "Apraksts",
+      "x": -2.47635722,
+      "y": -0.397373259,
+      "z": 1.646132,
+      "yRotation": 336,
+      "image": "DK_2_stava_gaitenis_3",
+      "navigateToImage": "kustibas_vadiba"
+    },
+    {
+      "title": "DK 2. stāva gaitenis",
+      "description": "Apraksts",
+      "x": -0.326085627,
+      "y": -0.119304605,
+      "z": -2.97983813,
+      "yRotation": 265,
+      "image": "DK_2_stava_gaitenis_3",
+      "navigateToImage": "DK_2_stava_gaitenis_2"
+    },
+    {
+      "title": "DK 2. stāva gaitenis",
+      "description": "Apraksts",
+      "x": 1.33622193,
+      "y": -0.347983241,
+      "z": -2.663347,
+      "yRotation": 97,
+      "image": "kustibas_vadiba",
+      "navigateToImage": "DK_2_stava_gaitenis_3"
+    },
+    {
+      "title": "DK 2. stāva gaitenis",
+      "description": "Apraksts",
+      "x": 2.98359847,
+      "y": -0.159961358,
+      "z": 0.269355446,
+      "yRotation": 5,
+      "image": "DK_2_stava_gaitenis_2",
+      "navigateToImage": "DK_2_stava_gaitenis_3"
+    },
+    {
+      "title": "DK 2. stāva gaitenis",
+      "description": "Apraksts",
+      "x": -2.98797584,
+      "y": -0.115708694,
+      "z": -0.242100745,
+      "yRotation": 310,
+      "image": "DK_2_stava_gaitenis_2",
+      "navigateToImage": "DK_2_stava_gaitenis_1"
+    },
+    {
+      "title": "Vilces ritošais sastāvs",
+      "description": "Apraksts",
+      "x": 2.556851,
+      "y": -0.414195746,
+      "z": 1.5135901,
+      "yRotation": 140,
+      "image": "DK_2_stava_gaitenis_1",
+      "navigateToImage": "vilces_ritosais_sastavs"
+    },
+    {
+      "title": "DK 2. stāva gaitenis",
+      "description": "Apraksts",
+      "x": 1.94736266,
+      "y": -0.302072376,
+      "z": -2.261975,
+      "yRotation": 85,
+      "image": "DK_2_stava_gaitenis_1",
+      "navigateToImage": "DK_2_stava_gaitenis_2"
+    },
+    {
+      "title": "DK 1. stāva gaitenis",
+      "description": "Apraksts",
+      "x": 1.32913446,
+      "y": -0.724470854,
+      "z": -2.590086,
+      "yRotation": 180,
+      "image": "DK_2_stava_gaitenis_1",
+      "navigateToImage": "DK_1_stava_gaitenis_3"
+    },
+    {
+      "title": "DK 2. stāva gaitenis",
+      "description": "Apraksts",
+      "x": -1.12615669,
+      "y": -0.148522615,
+      "z": 2.77663684,
+      "yRotation": 250,
+      "image": "vilces_ritosais_sastavs",
+      "navigateToImage": "DK_2_stava_gaitenis_1"
+    },
+    {
+      "title": "Elektromontāžas kabinets",
+      "description": "Apraksts",
+      "x": 2.96344733,
+      "y": -0.355738074,
+      "z": -0.3023739,
+      "yRotation": 0,
+      "image": "DK_1_stava_gaitenis_2",
+      "navigateToImage": "elektromontaza"
+    },
+    {
+      "title": "DK 2. stāva gaitenis",
+      "description": "Apraksts",
+      "x": 1.43404818,
+      "y": -0.08933984,
+      "z": 2.63353825,
+      "yRotation": 345,
+      "image": "DK_1_stava_gaitenis_3",
+      "navigateToImage": "DK_2_stava_gaitenis_1"
+    },
+    {
+      "title": "DK 1. stāva gaitenis",
+      "description": "Apraksts",
+      "x": -0.0900575742,
+      "y": -0.446815,
+      "z": -2.965172,
+      "yRotation": 257,
+      "image": "DK_1_stava_gaitenis_3",
+      "navigateToImage": "DK_1_stava_gaitenis_5"
+    },
+    {
+      "title": "DK 1. stāva gaitenis",
+      "description": "Apraksts",
+      "x": -2.81569076,
+      "y": -0.6140884,
+      "z": -0.833535254,
+      "yRotation": 180,
+      "image": "DK_1_stava_gaitenis_3",
+      "navigateToImage": "DK_1_stava_gaitenis_4"
+    },
+    {
+      "title": "Dzelzceļa transporta un lokomotīvju uzbūves kabinets",
+      "description": "Apraksts",
+      "x": 2.94223142,
+      "y": -0.50795424,
+      "z": -0.291988879,
+      "yRotation": 0,
+      "image": "DK_1_stava_gaitenis_3",
+      "navigateToImage": "dzelzcela_uzbuves_kab"
+    },
+    {
+      "title": "DK 1. stāva gaitenis",
+      "description": "Apraksts",
+      "x": 0.253855765,
+      "y": -0.5222616,
+      "z": 2.94326353,
+      "yRotation": 180,
+      "image": "DK_1_stava_gaitenis_3",
+      "navigateToImage": "DK_1_stava_gaitenis_2"
+    },
+    {
+      "title": "DK 1. stāva gaitenis",
+      "description": "Apraksts",
+      "x": 0.303426564,
+      "y": -0.579970539,
+      "z": 2.927724,
+      "yRotation": 90,
+      "image": "DK_1_stava_gaitenis_4",
+      "navigateToImage": "DK_1_stava_gaitenis_3"
+    },
+    {
+      "title": "DK 1. stāva gaitenis",
+      "description": "Apraksts",
+      "x": -2.953107,
+      "y": -0.361769319,
+      "z": 0.385073364,
+      "yRotation": 0,
+      "image": "elektromontaza",
+      "navigateToImage": "DK_1_stava_gaitenis_2"
+    },
+    {
+      "title": "Garderobe",
+      "description": "Description",
+      "x": -2.718913,
+      "y": -0.7330143,
+      "z": -1.03450572,
+      "yRotation": 180,
+      "image": "ieeja_darbnicu_korpusa",
+      "navigateToImage": "garderobe"
+    },
+    {
+      "title": "Ieeja mācību korpusā",
+      "description": "Description",
+      "x": -2.968873,
+      "y": -0.1041072,
+      "z": -0.4182765,
+      "yRotation": 320,
+      "image": "ieeja_darbnicu_korpusa",
+      "navigateToImage": "ieeja_macibu_korpusa"
+    },
+    {
+      "title": "Ieeja mācību korpusā",
+      "description": "Description",
+      "x": -0.7695672,
+      "y": -0.233872592,
+      "z": -2.89016771,
+      "yRotation": 320,
+      "image": "garderobe",
+      "navigateToImage": "ieeja_macibu_korpusa"
+    },
+    {
+      "title": "Ieeja darbnīcu korpusā",
+      "description": "Description",
+      "x": 0.6259481,
+      "y": -0.7409051,
+      "z": 2.83888173,
+      "yRotation": 110,
+      "image": "garderobe",
+      "navigateToImage": "ieeja_darbnicu_korpusa"
+    },
+    {
+      "title": "Garderobe",
+      "description": "Description",
+      "x": 2.647052,
+      "y": -0.458913565,
+      "z": -1.33510816,
+      "yRotation": 56,
+      "image": "ieeja_macibu_korpusa",
+      "navigateToImage": "garderobe"
+    },
+    {
+      "title": "Ieeja darbnīcu korpusā",
+      "description": "Description",
+      "x": 2.92952466,
+      "y": -0.1777417,
+      "z": -0.621526062,
+      "yRotation": 110,
+      "image": "ieeja_macibu_korpusa",
+      "navigateToImage": "ieeja_darbnicu_korpusa"
+    },
+    {
+      "title": "Ieeja dienesta viesnīcā",
+      "description": "Description",
+      "x": -0.316958159,
+      "y": -0.431879,
+      "z": 2.95178223,
+      "yRotation": 270,
+      "image": "ieeja_macibu_korpusa",
+      "navigateToImage": "MK_1_stava_gaitenis_1"
+    },
+    {
+      "title": "MK 1. stāva gaitenis",
+      "description": "Description",
+      "x": -2.9610815,
+      "y": -0.477735043,
+      "z": 0.06137617,
+      "yRotation": 180,
+      "image": "ieeja_macibu_korpusa",
+      "navigateToImage": "dv_ieeja"
+    },
+    {
+      "title": "Ieeja mācību korpusā",
+      "description": "Description",
+      "x": 2.99143457,
+      "y": -0.184877843,
+      "z": -0.130914882,
+      "yRotation": 145,
+      "image": "MK_1_stava_gaitenis_1",
+      "navigateToImage": "ieeja_macibu_korpusa"
+    },
+    {
+      "title": "Ēdamzāle",
+      "description": "Description",
+      "x": -2.8338418,
+      "y": -0.429417282,
+      "z": -0.8859693,
+      "yRotation": 270,
+      "image": "MK_1_stava_gaitenis_1",
+      "navigateToImage": "edamzale"
+    },
+    {
+      "title": "MK 2. stāva gaitenis",
+      "description": "Description",
+      "x": -2.52108812,
+      "y": -0.448726535,
+      "z": 1.56293273,
+      "yRotation": 0,
+      "image": "MK_1_stava_gaitenis_1",
+      "navigateToImage": "MK_2_stava_gaitenis_2"
+    },
+    {
+      "title": "MK 1. stāva gaitenis",
+      "description": "Description",
+      "x": 0.245962322,
+      "y": -0.636687338,
+      "z": -2.92132378,
+      "yRotation": 127,
+      "image": "MK_2_stava_gaitenis_2",
+      "navigateToImage": "MK_1_stava_gaitenis_1"
+    },
+    {
+      "title": "MK 1. stāva gaitenis",
+      "description": "Description",
+      "x": 2.677354,
+      "y": -0.8946419,
+      "z": 1.01557493,
+      "yRotation": 25,
+      "image": "edamzale",
+      "navigateToImage": "MK_1_stava_gaitenis_1"
+    },
+    {
+      "title": "Dienesta viesnīcas 1. stāva gaitenis",
+      "description": "Description",
+      "x": 2.90888834,
+      "y": -0.7319623,
+      "z": -0.0509814173,
+      "yRotation": 90,
+      "image": "dv_ieeja",
+      "navigateToImage": "dv_gaitenis_1"
+    },
+    {
+      "title": "Dienesta viesnīcas autostāvvieta",
+      "description": "Description",
+      "x": -2.65713716,
+      "y": -1.380062,
+      "z": -0.187219873,
+      "yRotation": 45,
+      "image": "dv_ieeja",
+      "navigateToImage": "autostavvieta"
+    },
+    {
+      "title": "Ieeja dienesta viesnīcā",
+      "description": "Description",
+      "x": -2.28375459,
+      "y": -0.0294483621,
+      "z": -1.94514728,
+      "yRotation": 90,
+      "image": "autostavvieta",
+      "navigateToImage": "dv_ieeja"
+    },
+    {
+      "title": "Iebraukšana teritorijā",
+      "description": "Description",
+      "x": 1.98909581,
+      "y": 0.0263462961,
+      "z": 2.24561882,
+      "yRotation": 128,
+      "image": "autostavvieta",
+      "navigateToImage": "iebrauksana_teritorija_1"
+    },
+    {
+      "title": "Iebraukšana teritorijā",
+      "description": "Description",
+      "x": 2.19557524,
+      "y": -0.530605853,
+      "z": -1.97431219,
+      "yRotation": 55,
+      "image": "iebrauksana_teritorija_1",
+      "navigateToImage": "iebrauksana_teritorija_2"
+    },
+    {
+      "title": "Dienesta viesnīcas autostāvvieta",
+      "description": "Description",
+      "x": -2.93964052,
+      "y": 0.00291199656,
+      "z": -0.598753333,
+      "yRotation": 230,
+      "image": "iebrauksana_teritorija_1",
+      "navigateToImage": "autostavvieta"
+    },
+    {
+      "title": "Iebraukšana teritorijā",
+      "description": "Description",
+      "x": -2.521968,
+      "y": -0.3837853,
+      "z": -1.57873,
+      "yRotation": 265,
+      "image": "iebrauksana_teritorija_2",
+      "navigateToImage": "iebrauksana_teritorija_1"
+    },
+    {
+      "title": "Iekšpagalms",
+      "description": "Description",
+      "x": 2.89579487,
+      "y": -0.09077294,
+      "z": 0.778544962,
+      "yRotation": 0,
+      "image": "iebrauksana_teritorija_2",
+      "navigateToImage": "iekspagalms"
+    },
+    {
+      "title": "Izgītības karjeras centrs",
+      "description": "Description",
+      "x": -2.37823319,
+      "y": 0.08314304,
+      "z": -1.826772,
+      "yRotation": 322,
+      "image": "iekspagalms",
+      "navigateToImage": "izglitibas_karjeras_centrs"
+    },
+    {
+      "title": "Auto virsbūvju remonta zona",
+      "description": "Description",
+      "x": -2.12204313,
+      "y": 0.0589070171,
+      "z": 2.119779,
+      "yRotation": 155,
+      "image": "iekspagalms",
+      "navigateToImage": "auto_virsbuvju_remonta_zona"
+    },
+    {
+      "title": "Auto virsbūves krāsotava",
+      "description": "Description",
+      "x": -1.693567,
+      "y": 0.06938311,
+      "z": 2.47528124,
+      "yRotation": 170,
+      "image": "iekspagalms",
+      "navigateToImage": "auto_virsbuves_krasotava"
+    },
+    {
+      "title": "Iebraukšana teritorijā",
+      "description": "Description",
+      "x": -0.161103874,
+      "y": -0.127008528,
+      "z": -2.99297738,
+      "yRotation": 240,
+      "image": "iekspagalms",
+      "navigateToImage": "iebrauksana_teritorija_2"
+    },
+    {
+      "title": "Iekšpagalms",
+      "description": "Description",
+      "x": 1.7747879,
+      "y": -0.774583161,
+      "z": -2.29132032,
+      "yRotation": 70,
+      "image": "izglitibas_karjeras_centrs",
+      "navigateToImage": "iekspagalms"
+    },
+    {
+      "title": "Iekšpagalms",
+      "description": "Description",
+      "x": -2.13747025,
+      "y": -0.18818517,
+      "z": 2.09661818,
+      "yRotation": 140,
+      "image": "auto_virsbuvju_remonta_zona",
+      "navigateToImage": "iekspagalms"
+    },
+    {
+      "title": "Iekšpagalms",
+      "description": "Description",
+      "x": 2.9793644,
+      "y": -0.0259484053,
+      "z": 0.350305885,
+      "yRotation": 140,
+      "image": "auto_virsbuves_krasotava",
+      "navigateToImage": "iekspagalms"
+    },
+    {
+      "title": "Skats no augsas",
+      "description": "Description",
+      "x": 1.61331964,
+      "y": 0.432447642,
+      "z": 2.492025,
+      "yRotation": 120,
+      "image": "iekspagalms",
+      "navigateToImage": "skats_no_augsas"
+    },
+    {
+      "title": "Iekšpagalms",
+      "description": "Description",
+      "x": -2.91647983,
+      "y": -0.6757291,
+      "z": -0.19374004,
+      "yRotation": 225,
+      "image": "skats_no_augsas",
+      "navigateToImage": "iekspagalms"
+    },
+    {
+      "title": "Ieeja mācību korpusā",
+      "description": "Description",
+      "x": -0.124814257,
+      "y": -0.0453157574,
+      "z": 2.99705982,
+      "yRotation": 90,
+      "image": "dv_ieeja",
+      "navigateToImage": "ieeja_macibu_korpusa"
+    },
+    {
+      "title": "Ieeja dienesta viesnīcā",
+      "description": "Description",
+      "x": -2.752795,
+      "y": -1.168646,
+      "z": 0.237460345,
+      "yRotation": 270,
+      "image": "dv_gaitenis_1",
+      "navigateToImage": "dv_ieeja"
+    },
+    {
+      "title": "Dienesta viesnīcas lifts",
+      "description": "Description",
+      "x": 0.7187835,
+      "y": -0.550567567,
+      "z": 2.86010933,
+      "yRotation": 65,
+      "image": "dv_gaitenis_1",
+      "navigateToImage": "dv_lifts"
+    },
+    {
+      "title": "Dienesta viesnīcas 1. stāva gaitenis",
+      "description": "Description",
+      "x": 2.761951,
+      "y": -1.16937971,
+      "z": -0.06463402,
+      "yRotation": 90,
+      "image": "dv_gaitenis_1",
+      "navigateToImage": "dv_gaitenis_2"
+    },
+    {
+      "title": "Dienesta viesnīcas 1. stāva gaitenis",
+      "description": "Description",
+      "x": -2.99735165,
+      "y": -0.0674411654,
+      "z": -0.106469154,
+      "yRotation": 275,
+      "image": "dv_gaitenis_2",
+      "navigateToImage": "dv_gaitenis_1"
+    },
+    {
+      "title": "Dienesta viesnīcas 1. stāva gaitenis",
+      "description": "Description",
+      "x": -2.74580073,
+      "y": -0.513168752,
+      "z": -1.09418273,
+      "yRotation": 180,
+      "image": "dv_lifts",
+      "navigateToImage": "dv_gaitenis_1"
+    },
+    {
+      "title": "Dienesta viesnīcas istaba",
+      "description": "Description",
+      "x": -2.50371313,
+      "y": -0.4975141,
+      "z": -1.57603931,
+      "yRotation": 95,
+      "image": "dv_gaitenis_2",
+      "navigateToImage": "dv_istaba"
+    },
+    {
+      "title": "Dienesta viesnīcas virtuve",
+      "description": "Description",
+      "x": 0.0488651432,
+      "y": -0.4567104,
+      "z": 2.96462965,
+      "yRotation": 280,
+      "image": "dv_gaitenis_2",
+      "navigateToImage": "dv_virtuve"
+    },
+    {
+      "title": "Dienesta viesnīcas tualete",
+      "description": "Description",
+      "x": -1.17997861,
+      "y": -0.3640176,
+      "z": 2.73407054,
+      "yRotation": 116,
+      "image": "dv_istaba",
+      "navigateToImage": "dv_tualete"
+    },
+    {
+      "title": "Dienesta viesnīcas 1. stāva gaitenis",
+      "description": "Description",
+      "x": -2.94452953,
+      "y": -0.418388039,
+      "z": 0.393317163,
+      "yRotation": 0,
+      "image": "dv_istaba",
+      "navigateToImage": "dv_gaitenis_2"
+    },
+    {
+      "title": "Dienesta viesnīcas 1. stāva gaitenis",
+      "description": "Description",
+      "x": 2.93908334,
+      "y": -0.217153132,
+      "z": -0.5609213,
+      "yRotation": 180,
+      "image": "dv_virtuve",
+      "navigateToImage": "dv_gaitenis_2"
+    },
+    {
+      "title": "Dienesta viesnīcas istaba",
+      "description": "Description",
+      "x": -0.4736142,
+      "y": -2.426979,
+      "z": -1.6986649,
+      "yRotation": 180,
+      "image": "dv_tualete",
+      "navigateToImage": "dv_istaba"
+    },
+    {
+      "title": "MK 1. stāva gaitenis",
+      "description": "Description",
+      "x": -2.995657,
+      "y": -0.07324972,
+      "z": 0.143785015,
+      "yRotation": 63,
+      "image": "MK_1_stava_gaitenis_1",
+      "navigateToImage": "MK_1_stava_gaitenis_2"
+    },
+    {
+      "title": "MK 1. stāva gaitenis",
+      "description": "Description",
+      "x": 2.67589545,
+      "y": 0.00787586253,
+      "z": 1.35628986,
+      "yRotation": 85,
+      "image": "MK_1_stava_gaitenis_2",
+      "navigateToImage": "MK_1_stava_gaitenis_3"
+    },
+    {
+      "title": "Grāmatsietuve",
+      "description": "Description",
+      "x": 2.97346663,
+      "y": -0.232708275,
+      "z": 0.323022366,
+      "yRotation": 90,
+      "image": "MK_1_stava_gaitenis_2",
+      "navigateToImage": "gramatsietuve"
+    },
+    {
+      "title": "MK 1. stāva gaitenis",
+      "description": "Description",
+      "x": -2.66937232,
+      "y": -0.06963977,
+      "z": -1.36733377,
+      "yRotation": 90,
+      "image": "MK_1_stava_gaitenis_2",
+      "navigateToImage": "MK_1_stava_gaitenis_1"
+    },
+    {
+      "title": "MK 1. stāva gaitenis",
+      "description": "Description",
+      "x": -2.814344,
+      "y": -0.3161605,
+      "z": 0.9897026,
+      "yRotation": 270,
+      "image": "gramatsietuve",
+      "navigateToImage": "MK_1_stava_gaitenis_2"
+    },
+    {
+      "title": "MK 1. stāva gaitenis",
+      "description": "Description",
+      "x": 2.99058867,
+      "y": -0.107321754,
+      "z": 0.211804077,
+      "yRotation": 86,
+      "image": "MK_1_stava_gaitenis_3",
+      "navigateToImage": "MK_1_stava_gaitenis_4"
+    },
+    {
+      "title": "CTP preses telpa",
+      "description": "Description",
+      "x": -0.239981532,
+      "y": -0.590465963,
+      "z": 2.9315114,
+      "yRotation": 10,
+      "image": "MK_1_stava_gaitenis_3",
+      "navigateToImage": "ctp"
+    },
+    {
+      "title": "MK 1. stāva gaitenis",
+      "description": "Description",
+      "x": -2.99293,
+      "y": -0.0302297734,
+      "z": -0.2036106,
+      "yRotation": 243,
+      "image": "MK_1_stava_gaitenis_3",
+      "navigateToImage": "MK_1_stava_gaitenis_2"
+    },
+    {
+      "title": "MK 1. stāva gaitenis",
+      "description": "Description",
+      "x": 0.06809115,
+      "y": -0.2626786,
+      "z": -2.98770213,
+      "yRotation": 180,
+      "image": "ctp",
+      "navigateToImage": "MK_1_stava_gaitenis_3"
+    },
+    {
+      "title": "Iespieddarbu apstrādes telpa",
+      "description": "Description",
+      "x": 2.26539636,
+      "y": -0.398132145,
+      "z": -1.92599881,
+      "yRotation": 81,
+      "image": "ctp",
+      "navigateToImage": "iespieddarbu_apstrade_1"
+    },
+    {
+      "title": "Iespieddarbu apstrādes telpa",
+      "description": "Description",
+      "x": 2.963544,
+      "y": -0.072722286,
+      "z": 0.460563481,
+      "yRotation": 275,
+      "image": "iespieddarbu_apstrade_1",
+      "navigateToImage": "iespieddarbu_apstrade_2"
+    },
+    {
+      "title": "CTP preses telpa",
+      "description": "Description",
+      "x": -2.19182777,
+      "y": -0.424744785,
+      "z": -2.00386715,
+      "yRotation": 280,
+      "image": "iespieddarbu_apstrade_1",
+      "navigateToImage": "ctp"
+    },
+    {
+      "title": "Iespieddarbu apstrādes telpa",
+      "description": "Description",
+      "x": 2.98951483,
+      "y": -0.1731312,
+      "z": -0.181185886,
+      "yRotation": 258,
+      "image": "iespieddarbu_apstrade_2",
+      "navigateToImage": "iespieddarbu_apstrade_1"
+    },
+    {
+      "title": "Iespiestuve",
+      "description": "Description",
+      "x": -2.984088,
+      "y": -0.149275124,
+      "z": 0.270065069,
+      "yRotation": 285,
+      "image": "iespieddarbu_apstrade_2",
+      "navigateToImage": "iespiestuve"
+    },
+    {
+      "title": "Iespieddarbu apstrādes telpa",
+      "description": "Description",
+      "x": 2.932387,
+      "y": -0.18642053,
+      "z": -0.60527277,
+      "yRotation": 90,
+      "image": "iespiestuve",
+      "navigateToImage": "iespieddarbu_apstrade_2"
+    },
+    {
+      "title": "MK 2. stāva gaitenis",
+      "description": "Description",
+      "x": 0.921114147,
+      "y": -0.656530738,
+      "z": -2.77858162,
+      "yRotation": 90,
+      "image": "MK_1_stava_gaitenis_4",
+      "navigateToImage": "MK_2_stava_gaitenis_4"
+    },
+    {
+      "title": "MK 1. stāva gaitenis",
+      "description": "Description",
+      "x": -2.99199533,
+      "y": 0.0076684393,
+      "z": -0.218870282,
+      "yRotation": 266,
+      "image": "MK_1_stava_gaitenis_4",
+      "navigateToImage": "MK_1_stava_gaitenis_3"
+    },
+    {
+      "title": "MK 1. stāva gaitenis",
+      "description": "Description",
+      "x": -2.922059,
+      "y": -0.327822626,
+      "z": -0.5950666,
+      "yRotation": 0,
+      "image": "MK_2_stava_gaitenis_4",
+      "navigateToImage": "MK_1_stava_gaitenis_4"
+    },
+    {
+      "title": "Multimediju kabinets",
+      "description": "Description",
+      "x": -2.99542046,
+      "y": -0.163258642,
+      "z": 0.0283503719,
+      "yRotation": 90,
+      "image": "MK_2_stava_gaitenis_4",
+      "navigateToImage": "multimediji"
+    },
+    {
+      "title": "MK 2. stāva gaitenis",
+      "description": "Description",
+      "x": -2.97948313,
+      "y": -0.113548234,
+      "z": 0.331344157,
+      "yRotation": 90,
+      "image": "MK_2_stava_gaitenis_4",
+      "navigateToImage": "MK_2_stava_gaitenis_3"
+    },
+    {
+      "title": "Datorgrafikas kabinets",
+      "description": "Description",
+      "x": -1.688658,
+      "y": -1.16507626,
+      "z": 2.1888423,
+      "yRotation": 0,
+      "image": "MK_2_stava_gaitenis_4",
+      "navigateToImage": "datorgrafika"
+    },
+    {
+      "title": "MK 2. stāva gaitenis",
+      "description": "Description",
+      "x": -2.93923831,
+      "y": -0.294416249,
+      "z": 0.523639739,
+      "yRotation": 95,
+      "image": "multimediji",
+      "navigateToImage": "MK_2_stava_gaitenis_4"
+    },
+    {
+      "title": "MK 2. stāva gaitenis",
+      "description": "Description",
+      "x": -0.91998446,
+      "y": -1.45966506,
+      "z": -2.45418167,
+      "yRotation": 145,
+      "image": "datorgrafika",
+      "navigateToImage": "MK_2_stava_gaitenis_4"
+    },
+    {
+      "title": "MK 2. stāva gaitenis",
+      "description": "Description",
+      "x": -2.989095,
+      "y": -0.208642542,
+      "z": 0.147582382,
+      "yRotation": 95,
+      "image": "MK_2_stava_gaitenis_3",
+      "navigateToImage": "MK_2_stava_gaitenis_4"
+    },
+    {
+      "title": "MK Elektromontāžas kabinets",
+      "description": "Description",
+      "x": 1.88646662,
+      "y": -1.24681175,
+      "z": 1.97147262,
+      "yRotation": 350,
+      "image": "MK_2_stava_gaitenis_3",
+      "navigateToImage": "MK_elektromontaza"
+    },
+    {
+      "title": "MK 2. stāva gaitenis",
+      "description": "Description",
+      "x": 2.98903632,
+      "y": -0.205137864,
+      "z": -0.153562024,
+      "yRotation": 267,
+      "image": "MK_2_stava_gaitenis_3",
+      "navigateToImage": "MK_2_stava_gaitenis_2"
+    },
+    {
+      "title": "MK 2. stāva gaitenis",
+      "description": "Description",
+      "x": 1.514694,
+      "y": -0.5259149,
+      "z": -2.53557014,
+      "yRotation": 210,
+      "image": "MK_elektromontaza",
+      "navigateToImage": "MK_2_stava_gaitenis_3"
+    },
+    {
+      "title": "MK 2. stāva gaitenis",
+      "description": "Description",
+      "x": 2.994019,
+      "y": -0.154393181,
+      "z": 0.109595582,
+      "yRotation": 270,
+      "image": "MK_2_stava_gaitenis_2",
+      "navigateToImage": "MK_2_stava_gaitenis_3"
+    },
+    {
+      "title": "Lodētava",
+      "description": "Description",
+      "x": 2.699246,
+      "y": -0.748146236,
+      "z": 1.074407,
+      "yRotation": 75,
+      "image": "MK_2_stava_gaitenis_2",
+      "navigateToImage": "lodetava"
+    },
+    {
+      "title": "Alternatīvā enerģētika",
+      "description": "Description",
+      "x": -2.74992824,
+      "y": -0.7222551,
+      "z": 0.957206368,
+      "yRotation": 270,
+      "image": "MK_2_stava_gaitenis_2",
+      "navigateToImage": "alternativa_energetika"
+    },
+    {
+      "title": "MK 2. stāva gaitenis",
+      "description": "Description",
+      "x": -2.96564817,
+      "y": -0.431405962,
+      "z": -0.137187883,
+      "yRotation": 90,
+      "image": "MK_2_stava_gaitenis_2",
+      "navigateToImage": "MK_2_stava_gaitenis_1"
+    },
+    {
+      "title": "MK 2. stāva gaitenis",
+      "description": "Description",
+      "x": -2.36882782,
+      "y": -0.472882569,
+      "z": -1.77905488,
+      "yRotation": 240,
+      "image": "lodetava",
+      "navigateToImage": "MK_2_stava_gaitenis_2"
+    },
+    {
+      "title": "MK 2. stāva gaitenis",
+      "description": "Description",
+      "x": 2.207981,
+      "y": -0.196739376,
+      "z": 2.0214138,
+      "yRotation": 110,
+      "image": "alternativa_energetika",
+      "navigateToImage": "MK_2_stava_gaitenis_2"
+    },
+    {
+      "title": "MK 2. stāva gaitenis",
+      "description": "Description",
+      "x": -2.97131729,
+      "y": -0.391560227,
+      "z": 0.133990169,
+      "yRotation": 90,
+      "image": "MK_2_stava_gaitenis_1",
+      "navigateToImage": "MK_2_stava_gaitenis_2"
+    },
+    {
+      "title": "Title",
+      "description": "Description",
+      "x": 0.7510773,
+      "y": -1.06155753,
+      "z": 2.70351243,
+      "yRotation": 0,
+      "image": "iekspagalms",
+      "navigateToImage": "-"
+    }
+  ]
+}
